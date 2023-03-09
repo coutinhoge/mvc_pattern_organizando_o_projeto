@@ -1,5 +1,9 @@
 <div align="center">
-    <h3><i>MVC(Model–view–controller) Parttern - Organizando um projeto</i></h3>
+    <h2><i>MVC(Model–view–controller) Parttern - Organizando um projeto</i></h2>
+</div>
+
+<div align="center">
+    <h3>Dependências</h3>
     <p>- Além das padrões... Cupertino e Material.</P>
     <p>- Package widgets</p>
     <p>- Package Http</p>
