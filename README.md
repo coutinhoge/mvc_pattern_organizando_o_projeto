@@ -6,7 +6,7 @@
     <h3>Dependências</h3>
     <p>- Além das padrões... Cupertino e Material.</P>
     <p>- Package widgets</p>
-    <p>- Package Http</p>
+    <p>- Package Http + API json placeholders</p>
     <p>- Dart convert</p>
 </div>
 
